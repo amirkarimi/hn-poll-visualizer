@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker build -t hn_poll_visualizer . && docker run hn_poll_visualizer "$1"
