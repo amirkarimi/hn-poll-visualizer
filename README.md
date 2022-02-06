@@ -1,4 +1,4 @@
-# HN Poll Visualizer
+# HN Polls Visualizer
 
 Visualize the HackerNews polls in terminal.
 
@@ -82,7 +82,7 @@ pipenv shell
 Run:
 
 ```
-./main.py  {URL}
+./main.py {URL}
 ```
 
 ### Using Docker
